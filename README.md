@@ -25,6 +25,9 @@ Analisis ini dilakukan untuk menjawab beberapa pertanyaan bisnis berikut:
 ---
 
 ## 🛠️ Tools & Technologies
+![MySQL](https://img.shields.io/badge/MySQL-SQL%20Query%20%26%20Data%20Modeling-blue)
+![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20%26%20Visualization-yellow)
 
 | Tools    | Fungsi                         |
 | -------- | ------------------------------ |
@@ -37,21 +40,20 @@ Analisis ini dilakukan untuk menjawab beberapa pertanyaan bisnis berikut:
 ## 📂 Struktur Repository
 
 ```text
+Sales-Performance-Analyst-Dashboard
+│
 ├── Dashboard
-│   ├── Sales Performance Dashboard.png
-│   └── Dashboard Documentation.pdf
+│   └── Sales Performance Dashboard.png
 │
-├── Database Design
-│   ├── ERD Diagram.png
-│   ├── Relational Database Schema.png
-│   └── Data Model Documentation
-│
-├── SQL Scripts
+├── SQL
 │   ├── Create Table.sql
 │   ├── Primary Key.sql
 │   ├── Foreign Key.sql
 │   ├── Master Table.sql
 │   └── Full Query.sql
+│
+├── Database Schema
+│   └── ERD.png
 │
 └── README.md
 ```
