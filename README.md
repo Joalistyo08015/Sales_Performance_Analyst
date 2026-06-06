@@ -187,6 +187,24 @@ Dashboard menampilkan beberapa KPI utama, yaitu:
 * Produk
 
 ---
+##📌 LATAR BELAKANG
+
+Perusahaan membutuhkan monitoring performa penjualan secara berkala untuk mengetahui kontribusi revenue berdasarkan produk, kategori produk, wilayah, cabang, dan aktivitas penjualan. Namun, data transaksi yang tersimpan dalam beberapa tabel terpisah belum dapat memberikan informasi yang komprehensif untuk mendukung pengambilan keputusan bisnis.
+
+Untuk mendukung proses analisis, dilakukan perancangan relational database menggunakan MySQL, pembuatan master table menggunakan SQL, serta visualisasi dashboard menggunakan Power BI guna menghasilkan insight yang dapat membantu perusahaan meningkatkan performa penjualan.
+
+##🎯 TUJUAN ANALISIS
+
+Analisis dilakukan untuk menjawab beberapa pertanyaan bisnis dari stakeholder, sebagai berikut:
+
+1.  Berapa total revenue yang dihasilkan perusahaan?
+2.  Bagaimana tren revenue perusahaan dari tahun ke tahun?
+3.  Produk apa yang memberikan kontribusi revenue terbesar?
+4.  Kategori produk apa yang memiliki kontribusi revenue tertinggi?
+5.  Wilayah mana yang memberikan kontribusi penjualan terbesar?
+6.  Cabang mana yang memiliki performa penjualan terbaik?
+7.  Bagaimana performa penjualan berdasarkan quantity transaksi?
+8.  Strategi apa yang dapat dilakukan perusahaan untuk mempertahankan atau meningkatkan penjualan?
 
 ## 📊 Hasil Analisis
 
