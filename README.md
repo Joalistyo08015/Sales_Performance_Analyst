@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analyst Dashboard
+# 📊 Sales Performance Analysis Dashboard
 
 ## 📌 Latar Belakang
 
