@@ -195,17 +195,17 @@ Dashboard menampilkan beberapa KPI utama, yaitu:
 Revenue perusahaan menunjukkan tren fluktuatif, dengan penurunan pada periode 2015–2018 sebelum kembali meningkat secara signifikan pada tahun 2019.
 Hal ini mengindikasikan adanya kemungkinan perubahan pada faktor eksternal (pasar/permintaan) atau internal (strategi penjualan, distribusi, atau produk) yang memengaruhi performa bisnis pada periode tersebut. Perlu analisis lanjutan untuk mengidentifikasi penyebab utama penurunan agar perusahaan dapat mencegah risiko serupa di masa depan.
 
-### Performa Produk
+### 🏆 Performa Produk
 
 Produk A merupakan kontributor utama revenue dan volume penjualan dibandingkan dengan produk lainnya, dengan kontribusi mencapai ±35% dari total revenue.
 Dominasi ini menunjukkan bahwa pertumbuhan bisnis sangat bergantung pada satu produk utama, sehingga terdapat risiko ketergantungan (revenue concentration risk). Jika performa Produk A menurun, dampaknya akan signifikan terhadap total pendapatan perusahaan.
 
-### Kontribusi Kategori Produk
+### 📦 Kontribusi Kategori Produk
 
 Kategori POU memberikan kontribusi sekitar 88% terhadap total revenue, sementara kategori POE hanya menyumbang sekitar 12%.
-Hal ini menunjukkan adanya ketidakseimbangan portofolio produk, di mana sebagian besar revenue perusahaan hanya ditopang oleh satu kategori utama. Kondisi ini meningkatkan risiko bisnis jika terjadi penurunan demand pada kategori dominan tersebut.
+Hal ini menunjukkan adanya ketidakseimbangan portofolio produk, di mana sebagian besar revenue perusahaan hanya ditopang oleh satu kategori utama. Kondisi ini meningkatkan risiko bisnis jika terjadi penurunan permintaan pada kategori dominan tersebut.
 
-### Performa Wilayah
+### 🌍 Performa Wilayah
 
 Cabang Tangerang menunjukkan performa revenue tertinggi selama periode analisis. Perbedaan performa antar cabang mengindikasikan adanya variasi efektivitas operasional, strategi penjualan, atau kondisi pasar lokal. Best practice dari cabang dengan performa tinggi dapat dijadikan benchmark untuk meningkatkan cabang lain. 
 
