@@ -219,15 +219,25 @@ Penurunan revenue pada periode tersebut perlu dianalisis lebih lanjut untuk meng
 
 ## 💡 Rekomendasi Bisnis
 
-1. Mempertahankan performa produk dengan kontribusi revenue terbesar melalui strategi promosi dan program loyalitas pelanggan.
+1. 🎯 Mengurangi Risiko Ketergantungan Revenue (PRIORITAS UTAMA)
 
-2. Mengurangi ketergantungan terhadap satu kategori produk dengan meningkatkan pemasaran pada kategori lain yang masih memiliki potensi pertumbuhan.
+Perusahaan perlu mengurangi ketergantungan pada produk dan kategori dengan kontribusi dominan terhadap revenue, dengan melakukan diversifikasi portofolio produk. Hal ini penting untuk mengurangi revenue concentration risk, karena penurunan performa pada produk utama dapat berdampak signifikan terhadap total pendapatan perusahaan.
 
-3. Melakukan evaluasi strategi penjualan cabang dengan performa rendah dan mengadopsi praktik terbaik dari cabang dengan performa tinggi.
+2. 📦 Optimalisasi Kategori Produk Berpotensi Rendah
 
-4. Memfokuskan aktivitas pemasaran pada wilayah dengan kontribusi revenue terbesar untuk mempertahankan pertumbuhan penjualan.
+Kategori produk dengan kontribusi rendah perlu dievaluasi dari sisi pricing, positioning, dan strategi pemasaran untuk meningkatkan kontribusinya terhadap total revenue. Pendekatan ini bertujuan untuk meningkatkan revenue balance antar kategori agar bisnis tidak bergantung pada satu sumber utama pendapatan.
 
-5. Melakukan analisis lanjutan terkait faktor penyebab penurunan revenue pada periode sebelumnya untuk mendukung perencanaan bisnis yang lebih efektif.
+3. 🏢 Standardisasi Best Practice Antar Cabang
+
+Perusahaan perlu mengidentifikasi cabang dengan performa terbaik dan menjadikannya sebagai benchmark operasional untuk cabang lainnya. Hal ini dapat membantu meningkatkan konsistensi performa dan mengurangi gap antar cabang dalam satu wilayah.
+
+4. 🌍 Optimalisasi Strategi Berdasarkan Wilayah
+
+Wilayah dengan kontribusi revenue tertinggi dapat dijadikan fokus untuk menjaga stabilitas pendapatan, namun perusahaan juga perlu mengevaluasi potensi ekspansi di wilayah dengan kontribusi lebih rendah. Tujuannya adalah untuk menciptakan growth yang lebih merata dan berkelanjutan.
+
+5. 📉 Root Cause Analysis Penurunan Revenue
+
+Perlu dilakukan analisis lanjutan untuk mengidentifikasi faktor penyebab penurunan revenue pada periode sebelumnya, baik dari sisi internal (strategi, produk, operasional) maupun eksternal (market condition). Insight ini penting untuk meningkatkan business resilience terhadap fluktuasi performa di masa depan.
 
 ---
 
