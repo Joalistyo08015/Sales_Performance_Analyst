@@ -205,11 +205,11 @@ Dominasi ini menunjukkan bahwa pertumbuhan bisnis sangat bergantung pada satu pr
 Kategori POU memberikan kontribusi sekitar 88% terhadap total revenue, sementara kategori POE hanya menyumbang sekitar 12%.
 Hal ini menunjukkan adanya ketidakseimbangan portofolio produk, di mana sebagian besar revenue perusahaan hanya ditopang oleh satu kategori utama. Kondisi ini meningkatkan risiko bisnis jika terjadi penurunan permintaan pada kategori dominan tersebut.
 
-### 🌍 Performa Wilayah
+### 🌍 Performa Wilayah dan Cabang
 
-Cabang Tangerang menunjukkan performa revenue tertinggi selama periode analisis. Perbedaan performa antar cabang mengindikasikan adanya variasi efektivitas operasional, strategi penjualan, atau kondisi pasar lokal. Best practice dari cabang dengan performa tinggi dapat dijadikan benchmark untuk meningkatkan cabang lain. 
+Wilayah Banten, terutama cabang Tangerang, menunjukkan performa revenue tertinggi selama periode analisis. Perbedaan performa antar cabang mengindikasikan adanya variasi efektivitas operasional, strategi penjualan, atau kondisi pasar lokal. Best practice dari cabang dengan performa tinggi dapat dijadikan benchmark untuk meningkatkan cabang lain. 
 
-Wilayah Jakarta merupakan kontributor revenue terbesar dalam analisis regional. Setelah di-breakdown lebih lanjut, kontribusi tersebut tidak merata antar cabang. Jakarta Selatan menjadi cabang dengan kontribusi tertinggi sebesar 43,20% dari total revenue Jakarta, diikuti oleh Jakarta Utara sebesar 35,64% dan Jakarta Timur sebesar 21,14%. Hal ini menunjukkan adanya ketimpangan performa antar cabang dalam satu wilayah utama, di mana lebih dari 40% revenue Jakarta hanya bergantung pada satu cabang.
+Wilayah DKI Jakarta merupakan kontributor revenue terbesar dalam analisis regional. Setelah di-breakdown lebih lanjut, kontribusi tersebut tidak merata antar cabang. Jakarta Selatan menjadi cabang dengan kontribusi tertinggi sebesar 43,20% dari total revenue Jakarta, diikuti oleh Jakarta Utara sebesar 35,64% dan Jakarta Timur sebesar 21,14%. Hal ini menunjukkan adanya ketimpangan performa antar cabang dalam satu wilayah utama, di mana lebih dari 40% revenue Jakarta hanya bergantung pada satu cabang.
 
 ### 📉 Investigasi Penurunan Revenue 2015–2018
 
