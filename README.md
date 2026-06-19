@@ -190,25 +190,30 @@ Dashboard menampilkan beberapa KPI utama, yaitu:
 
 ## 📊 Hasil Analisis
 
-### Tren Revenue
+### 📈 Tren Revenue
 
-Revenue perusahaan mengalami penurunan dari tahun 2015 hingga 2018, kemudian mengalami peningkatan yang signifikan pada tahun 2019.
+Revenue perusahaan menunjukkan tren fluktuatif, dengan penurunan pada periode 2015–2018 sebelum kembali meningkat secara signifikan pada tahun 2019.
+Hal ini mengindikasikan adanya kemungkinan perubahan pada faktor eksternal (pasar/permintaan) atau internal (strategi penjualan, distribusi, atau produk) yang memengaruhi performa bisnis pada periode tersebut. Perlu analisis lanjutan untuk mengidentifikasi penyebab utama penurunan agar perusahaan dapat mencegah risiko serupa di masa depan.
 
 ### Performa Produk
 
-Product A menjadi produk dengan kontribusi revenue dan quantity tertinggi dibandingkan produk lainnya.
+Produk A merupakan kontributor utama revenue dan volume penjualan dibandingkan dengan produk lainnya, dengan kontribusi mencapai ±35% dari total revenue.
+Dominasi ini menunjukkan bahwa pertumbuhan bisnis sangat bergantung pada satu produk utama, sehingga terdapat risiko ketergantungan (revenue concentration risk). Jika performa Produk A menurun, dampaknya akan signifikan terhadap total pendapatan perusahaan.
 
 ### Kontribusi Kategori Produk
 
-Kategori POU memberikan kontribusi sekitar 88% terhadap total revenue perusahaan, sedangkan kategori POE memberikan kontribusi sekitar 12%.
+Kategori POU memberikan kontribusi sekitar 88% terhadap total revenue, sementara kategori POE hanya menyumbang sekitar 12%.
+Hal ini menunjukkan adanya ketidakseimbangan portofolio produk, di mana sebagian besar revenue perusahaan hanya ditopang oleh satu kategori utama. Kondisi ini meningkatkan risiko bisnis jika terjadi penurunan demand pada kategori dominan tersebut.
 
 ### Performa Wilayah
 
-Jakarta menjadi wilayah dengan kontribusi revenue tertinggi dibandingkan wilayah lainnya.
+Cabang Tangerang menunjukkan performa revenue tertinggi selama periode analisis. Perbedaan performa antar cabang mengindikasikan adanya variasi efektivitas operasional, strategi penjualan, atau kondisi pasar lokal. Best practice dari cabang dengan performa tinggi dapat dijadikan benchmark untuk meningkatkan cabang lain. 
 
-### Performa Cabang
+Wilayah Jakarta merupakan kontributor revenue terbesar dalam analisis regional. Setelah di-breakdown lebih lanjut, kontribusi tersebut tidak merata antar cabang. Jakarta Selatan menjadi cabang dengan kontribusi tertinggi sebesar 43,20% dari total revenue Jakarta, diikuti oleh Jakarta Utara sebesar 35,64% dan Jakarta Timur sebesar 21,14%. Hal ini menunjukkan adanya ketimpangan performa antar cabang dalam satu wilayah utama, di mana lebih dari 40% revenue Jakarta hanya bergantung pada satu cabang.
 
-Cabang Tangerang merupakan cabang dengan revenue tertinggi selama periode analisis.
+### 📉 Investigasi Penurunan Revenue 2015–2018
+
+Penurunan revenue pada periode tersebut perlu dianalisis lebih lanjut untuk mengidentifikasi akar penyebab (root cause analysis). Hasil analisis ini penting untuk mencegah terulangnya pola penurunan serupa dan untuk meningkatkan ketahanan bisnis terhadap perubahan kondisi pasar.
 
 ---
 
