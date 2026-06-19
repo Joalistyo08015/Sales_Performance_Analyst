@@ -219,19 +219,19 @@ Penurunan revenue pada periode tersebut perlu dianalisis lebih lanjut untuk meng
 
 ## 💡 Rekomendasi Bisnis
 
-1. 🎯 Mengurangi Risiko Ketergantungan Revenue (PRIORITAS UTAMA)
+###1. 🎯 Mengurangi Risiko Ketergantungan Revenue (PRIORITAS UTAMA).
 Perusahaan perlu mengurangi ketergantungan pada produk dan kategori dengan kontribusi dominan terhadap revenue, dengan melakukan diversifikasi portofolio produk. Hal ini penting untuk mengurangi revenue concentration risk, karena penurunan performa pada produk utama dapat berdampak signifikan terhadap total pendapatan perusahaan.
 
-2. 📦 Optimalisasi Kategori Produk Berpotensi Rendah.
+###2. 📦 Optimalisasi Kategori Produk Berpotensi Rendah.
 Kategori produk dengan kontribusi rendah perlu dievaluasi dari sisi pricing, positioning, dan strategi pemasaran untuk meningkatkan kontribusinya terhadap total revenue. Pendekatan ini bertujuan untuk meningkatkan revenue balance antar kategori agar bisnis tidak bergantung pada satu sumber utama pendapatan.
 
-3. 🏢 Standardisasi Best Practice Antar Cabang 
+###3. 🏢 Standardisasi Best Practice Antar Cabang 
 Perusahaan perlu mengidentifikasi cabang dengan performa terbaik dan menjadikannya sebagai benchmark operasional untuk cabang lainnya. Hal ini dapat membantu meningkatkan konsistensi performa dan mengurangi gap antar cabang dalam satu wilayah.
 
-4. 🌍 Optimalisasi Strategi Berdasarkan Wilayah
+###4. 🌍 Optimalisasi Strategi Berdasarkan Wilayah
 Wilayah dengan kontribusi revenue tertinggi dapat dijadikan fokus untuk menjaga stabilitas pendapatan, namun perusahaan juga perlu mengevaluasi potensi ekspansi di wilayah dengan kontribusi lebih rendah. Tujuannya adalah untuk menciptakan growth yang lebih merata dan berkelanjutan.
 
-5. 📉 Root Cause Analysis Penurunan Revenue
+###5. 📉 Root Cause Analysis Penurunan Revenue
 Perlu dilakukan analisis lanjutan untuk mengidentifikasi faktor penyebab penurunan revenue pada periode sebelumnya, baik dari sisi internal (strategi, produk, operasional) maupun eksternal (market condition). Insight ini penting untuk meningkatkan business resilience terhadap fluktuasi performa di masa depan.
 
 ---
