@@ -187,6 +187,7 @@ Dashboard menampilkan beberapa KPI utama, yaitu:
 * Kategori Produk
 * Produk
 
+<p align="center"><img src="Dashboard/Sales Performance Analyst.jpg" width="900"></p>
 ---
 
 ## 📊 Hasil Analisis
