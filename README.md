@@ -158,6 +158,7 @@ Membangun dashboard interaktif menggunakan Power BI untuk memudahkan monitoring 
 * Product (1) → (M) Sales Transaction
 * Salesman (1) → (M) Sales Transaction
 
+<p align="center"><img src="Database Schema/Sales Performance Analyst.png " width="900"></p>
 ---
 
 ## 📈 Dashboard Overview
